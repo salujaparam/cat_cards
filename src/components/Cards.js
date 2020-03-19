@@ -51,7 +51,7 @@ class Cards extends Component {
             this.props.reset();
             this.setState({
                 card: {
-                    name: 'Won, Try Again', 
+                    name: 'Won, Play Again', 
                     img: closed
                 },
                 numberOfTimesFlipped:0
